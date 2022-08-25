@@ -1,0 +1,6 @@
+Server: bicyclepbi.database.windows.net
+
+Database: BI_SALES_DB
+
+User name: pbiadmin
+Password: pPbI20!2
